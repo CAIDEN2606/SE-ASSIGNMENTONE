@@ -57,6 +57,11 @@
     </Compile>
     <Compile Include="InspectStart.Designer.cs">
       <DependentUpon>InspectStart.cs</DependentUpon>
+    <Compile Include="GeneralInspection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GeneralInspection.Designer.cs">
+      <DependentUpon>GeneralInspection.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -65,6 +70,8 @@
     </EmbeddedResource>
     <EmbeddedResource Include="InspectStart.resx">
       <DependentUpon>InspectStart.cs</DependentUpon>
+    <EmbeddedResource Include="GeneralInspection.resx">
+      <DependentUpon>GeneralInspection.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

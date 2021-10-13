@@ -50,7 +50,7 @@ namespace MUSK_Inspections
             // 
             // btn_exit
             // 
-            this.btn_exit.Location = new System.Drawing.Point(520, 426);
+            this.btn_exit.Location = new System.Drawing.Point(464, 426);
             this.btn_exit.Name = "btn_exit";
             this.btn_exit.Size = new System.Drawing.Size(126, 34);
             this.btn_exit.TabIndex = 33;
